@@ -21,3 +21,7 @@ David Autor and David Dorn. "The Growth of Low Skill Service Jobs and the Polari
 David Dorn. "Essays on Inequality, Spatial Interaction, and the Demand for Skills." *Dissertation University of St. Gallen no. 3613*, September 2009.
 
 Steven Ruggles, Sarah Flood, Ronald Goeken, Josiah Grover, Erin Meyer, Jose Pacas, and Matthew Sobek. IPUMS USA: Version 8.0 [dataset]. Minneapolis, MN: IPUMS, 2018. https://doi.org/10.18128/D010.V8.0
+
+# Copyright 
+
+This work is licensed under the Creative Commons Attribution 4.0 International License. A copy of this license is included with the files. Alternatively, visit http://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
